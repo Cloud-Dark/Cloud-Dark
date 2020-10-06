@@ -10,7 +10,7 @@
 - 😄 My Whatsapp : [+628998937095 ](http://wa.me/628998937095 "+628998937095 ")
 - ⚡ Fun fact: I'm comming to teen
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
+<img weight="60%" align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
 - <a href="https://www.instagram.com/portofolio_cloud_dark/"><img src="https://img.shields.io/badge/instagram%20@tportofolio_cloud_dark-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.facebook.com/massyahdanfilsafan"><img src="https://img.shields.io/badge/facebook%20@mas syahdan filsafan-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
