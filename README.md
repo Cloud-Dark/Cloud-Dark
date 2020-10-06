@@ -1,6 +1,7 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
 - 🔭 I’m currently working on Yii2
 - 🌱 I’m currently learning Frontend
@@ -15,7 +16,6 @@
 - <a href="https://www.facebook.com/massyahdanfilsafan"><img src="https://img.shields.io/badge/facebook%20@mas syahdan filsafan-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 - <a href="https://github.com/Cloud-Dark/"><img height="30px" src="https://img.shields.io/badge/cloud dark-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
