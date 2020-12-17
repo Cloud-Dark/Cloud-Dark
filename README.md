@@ -1,10 +1,15 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 # Hey, I am Cloud Dark 👋✌️
 1. 🔭 I’m currently working on Yii2
+
 2. 🌱 I’m currently learning Frontend
+
 3. 💬 Ask me anything about Backend
+
 4. 📫 How to reach me: syahdanfilsafan58@gmail.com
+
 5. 😄 My Whatsapp : [+628998937095 ](http://wa.me/628998937095 "+628998937095 ")
+
 6. ⚡ Fun fact: I'm comming to teen
 
 
