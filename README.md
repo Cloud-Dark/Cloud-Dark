@@ -2,7 +2,7 @@
 
 # Hey, I am Cloud Dark 👋✌️
 
-1. 🔭 I’m currently working on Yii2
+1. 🔭 I’m currently working on Node JS
 
 2. 🌱 I’m currently learning Frontend
 
