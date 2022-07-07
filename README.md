@@ -1,25 +1,23 @@
 
 
-# Hey, I am Cloud Dark 👋✌️
 
-1. 🔭 I’m currently working on Node JS
+  <h1 align="center">Hey, I am Cloud Dark 👋✌️</h1>
+<p align="center">
 
-2. 🌱 I’m currently learning Frontend
-
-3. 💬 Ask me anything about Backend
-
-4. 📫 How to reach me: syahdanfilsafan58@gmail.com
-
-5. 😄 My Whatsapp : [+628998937095 ](http://wa.me/628998937095 "+628998937095 ")
-
-6. ⚡ Fun fact: I'm comming to teen
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Cloud-Dark&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Dark&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Cloud-Dark&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Cloud-Dark&style=for-the-badge&color=orange">
+</p>
 
 
 ## Find me around the web 🌍
-- <a href="https://www.instagram.com/portofolio_cloud_dark/"><img src="https://img.shields.io/badge/instagram%20@portofolio_cloud_dark-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/massyahdanfilsafan"><img src="https://img.shields.io/badge/facebook%20@mas syahdan filsafan-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://github.com/Cloud-Dark/"><img height="30px" src="https://img.shields.io/badge/cloud dark-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
-
+<a href="https://www.instagram.com/portofolio_cloud_dark/"><img src="https://img.shields.io/badge/instagram%20-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/massyahdanfilsafan"><img src="https://img.shields.io/badge/facebook%20-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mas-syahdan-filsafan/"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://syahdanfilsafan.my.id/"><img src="https://img.shields.io/badge/Curriculum Vitae-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 ## My skills 🚀
 
@@ -43,22 +41,9 @@
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## My Github Status 🦸
-![](https://github-readme-stats.vercel.app/api?username=Cloud-Dark&include_all_commits=true&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Dark&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
 
 
 ⭐️ From [Cloud Dark](https://github.com/Cloud-Dark)
 
-<p align="center">
-  
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=salman0ansari&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=salman0ansari&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=salman0ansari&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Cloud-Dark&style=for-the-badge&color=orange">
-</p>
+
